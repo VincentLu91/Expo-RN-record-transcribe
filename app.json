@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.vincelu299.ExpoRNrecordtranscribe"
     },
     "web": {
       "favicon": "./assets/favicon.png"
